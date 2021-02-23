@@ -2249,6 +2249,10 @@ hr {
     .intro__intro-title {
         font-size: 21px;
     }
+    
+    .hr {
+        display: none;
+    }
 }
 
 @media (max-width: 476px) {
